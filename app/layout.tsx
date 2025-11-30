@@ -11,7 +11,6 @@ export const metadata: Metadata = {
   title: "AgroScan — AI-Powered Plant Disease Detection",
   description:
     "Accurate plant disease diagnosis using artificial intelligence. Helping farmers protect their crops with instant, expert-level diagnostics.",
-  generator: "v0.app",
   icons: {
     icon: [
       {
@@ -22,10 +21,7 @@ export const metadata: Metadata = {
         url: "/icon-dark-32x32.png",
         media: "(prefers-color-scheme: dark)",
       },
-      {
-        url: "/icon.svg",
-        type: "image/svg+xml",
-      },
+      
     ],
     apple: "/apple-icon.png",
   },
